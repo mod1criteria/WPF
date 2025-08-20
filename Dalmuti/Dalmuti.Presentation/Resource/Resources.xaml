@@ -9,6 +9,6 @@
                     xmlns:enum="clr-namespace:Dalmuti.Presentation.Enums"
                     mc:Ignorable="d">
     <ResourceDictionary.MergedDictionaries>
-        <ResourceDictionary Source="Resources.Static.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/Dalmuti.Presentation;component/Resource/Resource.Static.xaml" />
     </ResourceDictionary.MergedDictionaries>
 </ResourceDictionary>
